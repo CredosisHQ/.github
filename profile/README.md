@@ -1,6 +1,6 @@
 ## <samp>&gt; Welcome to the official github page of <a href="#">Credosis</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />  
+<img align="middle"  src="https://i.ibb.co/m1v9TMD/CREDOSIS-Full-Logo.png"  />   
 
 <samp>
 At Credosis, we believe that great technology is built on trust.
@@ -9,16 +9,22 @@ Credosis is a modern digital solutions company focused on delivering reliable, s
 
 </samp>
 
-<samp>
 
- ### Talking about Specialization Stuffs: 
+ ### <samp> Talking about Specialization Stuffs: </samp>
 
-🟢 Web Development
-🟢 SaaS Application Development
-🟢 Custom Software Solutions
-🟢 AI Agents & Automation
-🟢 WordPress Development
-🟢 Full-Stack Engineering
+<samp> -  Web Development </samp>
+
+<samp> - SaaS Application Development </samp>
+
+<samp> - Custom Software Solutions </samp>
+
+<samp> - AI Agents & Automation </samp>
+
+<samp> - WordPress Development </samp>
+
+<samp> - Full-Stack Engineering </samp>
+<br>
 
 
-</samp>
+<samp> Connect: [LinkedIn](https://www.linkedin.com/company/credosis)  [Instagram](https://www.instagram.com/credosis/) </samp>
+
